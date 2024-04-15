@@ -14,5 +14,5 @@ steps:
   displayName: 'Install dependencies'
 
 - script: |
-    python your_script.py
+    python main.py
   displayName: 'Run Python script'
